@@ -1,2 +1,5 @@
 # First Project
-This is a poject to learn and is developed on local system.
+This is a project to learn and is developed on local system.
+
+# created by
+Samruddhi
